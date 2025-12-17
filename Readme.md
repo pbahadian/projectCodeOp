@@ -10,7 +10,7 @@ La segunda parte es la visualización con distintos datos variables y paises y s
 
 La tercera parte es con Machine Learning para determinar el cluster y el modelo de predicción. 
 
-PD: Curiosamente, cuando ya empezaba a visualizar la idea de este proyecto, la economista Claudia Goldin ha sido gallardonada con el Nobel de Economía con un trabajo sobre el entendimiento de la desigualdad de género en le mercado laboral.
+PD: Curiosamente, cuando ya empezaba a visualizar la idea de este proyecto, la economista Claudia Goldin ha sido gallardonada con el Nobel de Economía con un trabajo sobre el entendimiento de la desigualdad de género en le mercado laboral, demostrando la relevancia del tema y la necesidad de cambios sociales.
 
 
 
